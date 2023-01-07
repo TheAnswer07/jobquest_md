@@ -3,15 +3,15 @@
 ## Table of contents
 ​
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 ​​
@@ -53,8 +53,9 @@ THEN I end my session and redirected to the login page
 ​
 ### Links
 ​
-- Live deployment[Heroku-page](https://)
-- Github repository [Github](https://)
+- Live Site URL: [Live Site URL](https://)
+
+- URL of original repo with team commits: [URL of original repo with team commits](https://github.com/AllSystemsRGeorge/Job-Quest)
 ​
 ## My process
 ​
@@ -90,7 +91,7 @@ Although we are proud of what we have made, there are still more room for improv
 ## Authors
 ​
 - Portfolio
-  - [Moussa Dia](https://theanswer07.github.io/Portfolio-MD/) 
+  - [Moussa Dia](https://github.com/TheAnswer07/moussadiaportfolio) 
   - [George Durando](https://allsystemsrgeorge.github.io/PortfolioProfile/)
   - [Lillian Kim](https://liliankim.github.io/homework-2/)
   - [Adriane Ocampo](https://ocampoad.github.io/Adriane_Ocampo_Portfolio/)
