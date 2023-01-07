@@ -69,7 +69,7 @@ THEN I end my session and redirected to the login page
 - Handlebars
 - .env
 - cors
-- Heroku
+- Netlify
 - Javascript
 
 ### What we learned
