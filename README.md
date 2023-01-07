@@ -53,8 +53,8 @@ THEN I end my session and redirected to the login page
 ​
 ### Links
 ​
-- Live deployment[Heroku-page](https://jobquest.herokuapp.com/)
-- Github repository [Github](https://github.com/AllSystemsRGeorge/Job-Quest.git)
+- Live deployment[Heroku-page](https://)
+- Github repository [Github](https://)
 ​
 ## My process
 ​
